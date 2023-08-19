@@ -1,0 +1,1 @@
+A:\3DS\RAFAEL\pam\AppBindings\AppBindings\AppBindings\AppBindings.csproj;x64
